@@ -24,7 +24,7 @@
     "browserify": "^11.0.1",
     "browserify-css": "^0.15.0",
     "budo": "^7.0.2",
-    "exorcist": "^0.4.0",
+    "exorcist": "^2.0.0",
     "gh-pages": "^0.12.0",
     "html-minifier": "^0.8.0",
     "husky": "^0.10.1",
