@@ -21,7 +21,7 @@
   "repository": "aframevr/aframe",
   "license": "MIT",
   "devDependencies": {
-    "browserify": "^11.0.1",
+    "browserify": "^17.0.0",
     "browserify-css": "^0.15.0",
     "budo": "^7.0.2",
     "exorcist": "^0.4.0",
