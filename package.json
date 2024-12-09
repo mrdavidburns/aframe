@@ -29,7 +29,7 @@
     "html-minifier": "^0.8.0",
     "husky": "^0.10.1",
     "polymerize": "^1.0.0",
-    "replace": "^0.3.0",
+    "replace": "^1.0.0",
     "semistandard": "^7.0.2",
     "snazzy": "^2.0.1",
     "uglifyjs": "^2.4.10"
