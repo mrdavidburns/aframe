@@ -31,7 +31,7 @@
     "polymerize": "^1.0.0",
     "replace": "^0.3.0",
     "semistandard": "^7.0.2",
-    "snazzy": "^2.0.1",
+    "snazzy": "^9.0.0",
     "uglifyjs": "^2.4.10"
   },
   "dependencies": {
